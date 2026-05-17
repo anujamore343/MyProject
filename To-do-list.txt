@@ -1,0 +1,5 @@
+## To-Do List:
+- [ ] Create a new repository
+- [ ] Add a new file
+- [ ] Practice making an edit
+- [ ] Commit the changes
