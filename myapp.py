@@ -14,3 +14,12 @@ def table2():
            i+=1
 table2()
 
+
+# Program to check even or odd number
+
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("The number is Even")
+else:
+    print("The number is Odd")
